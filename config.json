@@ -1,0 +1,18 @@
+{
+  "emailSettings":
+    {
+      "port":465,
+      "smtpServer": "smtp.gmail.com",
+      "password": "",
+      "fromEmail": "",
+      "toEmail": "",
+      "emailSubject": "Vehicle is available on WeBuyCars",
+      "emailMessage": "A vehicle you were monitoring on WeBuyCars is now available for purchase"
+    },
+  "whatsappSettings": {
+    "intlFormatNumber":"",
+    "message": ""
+  },
+  "defaultRefreshDelay": "300",
+  "defaultStockCode": ""
+}
